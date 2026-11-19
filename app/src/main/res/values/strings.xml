@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Smart Auto Clicker Pro</string>
-    <string name="accessibility_description">Allows user-configured tap automation.</string>
+    <string name="accessibility_description">تُستخدم الخدمة فقط لتنفيذ نقرات وإيماءات يحددها المستخدم. لا يقرأ التطبيق محتوى النوافذ.</string>
 </resources>
